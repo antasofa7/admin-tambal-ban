@@ -1,0 +1,8 @@
+img{
+    max-width: 100%;
+    border-radius: $border-radius-small;
+    object-fit: cover;
+}
+.img-raised{
+    box-shadow: $box-shadow-raised;
+}
